@@ -66,7 +66,7 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
    cd c:/path/to/directory/
    cd Data
    ```
-      - Edit the File `config.json`
+      - Edit `config.json` as you need.
   
       - Default `config.json`:
         ```json
