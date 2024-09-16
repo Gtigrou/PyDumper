@@ -61,13 +61,13 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
    
    Make sure to config by yourself the `config.json`:
    
-      -Go to the correct directory:
-         ```bash
-         cd c:/path/to/directory/
-         cd Data
-         ```
-   
-      -Edit the File `config.json`
+         -Go to the correct directory:
+            ```bash
+            cd c:/path/to/directory/
+            cd Data
+            ```
+      
+         -Edit the File `config.json`
 
 ## Disclaimer
 
