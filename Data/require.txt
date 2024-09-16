@@ -1,0 +1,8 @@
+discord
+colorama
+json
+time
+os
+asyncio
+tqdm
+requests

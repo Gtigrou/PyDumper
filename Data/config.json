@@ -1,0 +1,6 @@
+{
+  "BotToken": "YOUR_BOT_TOKEN",
+  "InputTypingColor": "r",
+  "BannerSpeed": 0.125,
+  "WaitingTime": 3
+}
