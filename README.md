@@ -28,15 +28,6 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
    ```bash
    python PyDumper.py
    ```
-   
-4. **Config File:**
-   Make sure to config by yourself the `config.json`:
-      -Go to the correct directory:
-         ```bash
-         cd c:/path/to/directory/
-         cd Data
-         ```
-      -Edit the File `config.json`
 
 ## Typical Error
 
@@ -65,6 +56,18 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
       chcp 65001
       python Dumper.py
       ```
+
+4. **Config File:**
+5. 
+   Make sure to config by yourself the `config.json`:
+   
+      -Go to the correct directory:
+         ```bash
+         cd c:/path/to/directory/
+         cd Data
+         ```
+   
+      -Edit the File `config.json`
 
 ## Disclaimer
 
