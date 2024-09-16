@@ -4,9 +4,6 @@
 
 Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
 
-
-## **User Manual and General Conditions**
-
 ## Installation
 
 1. **Install Python 3.10 or later:**
