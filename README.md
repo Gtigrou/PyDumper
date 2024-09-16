@@ -58,7 +58,7 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
       ```
 
 4. **Config File:**
-5. 
+   
    Make sure to config by yourself the `config.json`:
    
       -Go to the correct directory:
