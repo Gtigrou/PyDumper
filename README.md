@@ -1,11 +1,11 @@
 # PyDumper
 
 **Copyright © 2024 SayO**
+
 Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
 
-=================================================================================
-                       **User Manual and General Conditions**
-=================================================================================
+**User Manual and General Conditions**
+
 
 ## Installation
 
