@@ -62,12 +62,11 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
    Make sure to config by yourself the `config.json`:
    
       -Go to the correct directory:
-   
-         bash
-         cd c:/path/to/directory/
-         cd Data
-         
-   
+   ```bash
+   cd c:/path/to/directory/
+   cd Data
+   pip install -r require.txt
+   ```
       -Edit the File `config.json`
 
 ## Disclaimer
