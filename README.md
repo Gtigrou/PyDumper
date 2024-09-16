@@ -29,6 +29,34 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
    python PyDumper.py
    ```
 
+## Typical Error
+
+1. **Pyton not install**
+   - [Download Python](https://www.python.org/downloads/)
+
+2. **Modules Not install**
+   - Open a terminal in the PyDumper directory
+
+   For Windows:
+   - Press `Windows + R` and type `cmd`
+   
+   Then run the following commands:
+   ```bash
+   cd c:/path/to/directory/
+   cd Data
+   pip install -r require.txt
+   ```
+
+3. **Bad CMD encrypting**
+   Fore windows:
+   -Make sure your terminal is in `chcp 65001`
+      Else run the following commands:
+      ```bash
+      cd c:/path/to/directory/
+      chcp 65001
+      python Dumper.py
+      ```
+
 ## Disclaimer
 
 **PyDumper** is a powerful tool intended for use by knowledgeable and responsible individuals. It is designed for ethical and legal use **only**. Any malicious or illegal use of this software is strictly prohibited and is the sole responsibility of the user.
