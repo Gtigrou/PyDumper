@@ -49,7 +49,7 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
 
 3. **Bad CMD encrypting**
    Fore windows:
-   -Make sure your terminal is in `chcp 65001`
+   - Make sure your terminal is in `chcp 65001`
       Else run the following commands:
       ```bash
       cd c:/path/to/directory/
@@ -61,13 +61,22 @@ Dump, Extracts, Injects, Manipulates, and Manages all data from a discord server
    
    Make sure to config by yourself the `config.json`:
    
-      -Go to the correct directory:
+      - Go to the correct directory:
    ```bash
    cd c:/path/to/directory/
    cd Data
-   pip install -r require.txt
    ```
-      -Edit the File `config.json`
+      - Edit the File `config.json`
+  
+      - Default `config.json`:
+        ```json
+         {
+        "BotToken": "YOUR_BOT_TOKEN",
+        "InputTypingColor": "r",
+        "BannerSpeed": 0.125,
+        "WaitingTime": 3
+         }
+        ```
 
 ## Disclaimer
 
